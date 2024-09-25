@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Pipe Network Mapping",
+"features": [
+{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[43.648493215441704, 3.1164510336626696, 0.0], [43.648418448865414, 3.1164399859131238, 0.0], [43.648179732263095, 3.116466098775502, 0.0], [43.647891730070114, 3.1164875247133943, 0.0], [43.6477505788207, 3.116281300043172, 0.0], [43.64766910672188, 3.116097170839191, 0.0], [43.64759299904108, 3.1159505370136946, 0.0], [43.647484704852104, 3.115812942241069, 0.0]]}, "properties": {"Region": "Kaxareey", "District": "Dolow", "IDP Camp": "Kaxareey", "Pipe ID": "575", "Type of Pipe": "Service Pipe", "pipelength": "155.27602705755038", "Length of Pipe (in meters)": "155.27602705755038", "Pipe Material": "PVC", "Pipe Diameter (in mm)": "25.0", "Condition of the Pipe": "Functional", "_id": 386428005, "_uuid": "a45f1ec1-99e7-4dae-83d9-6cf82d8cd6d6", "_submission_time": "2024-09-22T08:17:02", "_status": "submitted_via_web", "_submitted_by": "mdc2021", "__version__": "vDCPLfRkp5r2B4mCncR3rf", "_index": 1}}
+]
+}
